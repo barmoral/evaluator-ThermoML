@@ -1,0 +1,5 @@
+# large directories of files (simulations, structures ThermoML, etc)
+stored_data/*
+
+# VSCode config files
+launch.json
