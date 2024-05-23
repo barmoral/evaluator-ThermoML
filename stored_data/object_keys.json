@@ -1,1 +1,1 @@
-{"object_keys": {}, "@type": "openff.evaluator.storage.storage.StorageBackend._ObjectKeyData"}
+{"object_keys": {"ForceFieldData": ["5650240d6d3c490aa971ba080b2928a3"], "StoredSimulationData": ["da6704f362d64481b1092552e40a5ead", "65939206783841d0ac39a57feab99740", "a5cc9159785d4afc9220c05083826971", "92922719b4724941a564dde45485bd68", "645671fd195a4644a483601a33459c56", "b88afd939343441faa7fdb6d759530b1"]}, "@type": "openff.evaluator.storage.storage.StorageBackend._ObjectKeyData"}
