@@ -3,3 +3,4 @@ stored_data/*
 
 # VSCode config files
 launch.json
+NIST_data2/ThermoML*
