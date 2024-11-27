@@ -6,5 +6,5 @@ launch.json
 NIST_data2/ThermoML*
 
 NIST_data2/tests*
-
+NIST_data/
 NIST_data/*
