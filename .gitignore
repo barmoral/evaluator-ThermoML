@@ -7,5 +7,4 @@ NIST_data2/ThermoML*
 NIST_data2/10.*
 NIST_data2/tests*
 *.json
-NIST_data/*
 NIST_data2/tml_database*.csv
