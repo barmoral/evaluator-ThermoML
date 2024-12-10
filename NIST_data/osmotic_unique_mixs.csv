@@ -1,107 +1,107 @@
 Mixture,Count
-[Br-].[Na+] | O,16
-CCCCn1cc[n+](C)c1.[Br-] | O,40
-O=P([O-])(O)O.[K+] | O,57
-NCCCC(=O)O | O,8
-O | O=S(=O)([O-])[O-].[Ca+2],15
-CC(C)[C@H](N)C(=O)O | [Cl-].[K+] | O,48
-O=C(O)[C@@H]1CCCN1 | [Cl-].[K+] | O,44
-C[C@H](N)C(=O)O | O=[N+]([O-])[O-].[K+] | O,36
-CC(C)[C@H](N)C(=O)O | [Br-].[Li+] | O,8
-NCC(=O)O | O=[N+]([O-])[O-].[Na+] | O,58
-[Cs+].[F-] | O,16
-CCCO | CCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,14
-CO,2
-O | [Na+].[OH-],2
-NCC(=O)O | [I-].[Li+] | O,14
-O | CCCCn1cc[n+](C)c1.F[B-](F)(F)F,72
-CCCO | CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,13
-[Br-].[Li+] | O,16
-CCO | CCCCn1cc[n+](C)c1.[Cl-],24
-O=C(O)[C@@H]1CCCN1 | N.N.O=S(=O)(O)O | O,40
-CCCO | CCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,15
-CC(C)[C@H](N)C(=O)O | O=S(=O)([O-])[O-].[Na+].[Na+] | O,8
-CC(C)[C@H](N)C(=O)O | [Cl-].[Na+] | O,46
-NCC(=O)O | O=[N+]([O-])[O-].[K+] | O,52
-CC(C)[C@H](N)C(=O)O | N.N.O=S(=O)(O)O | O,26
-CCO | CCCCCCn1cc[n+](C)c1.[Cl-],24
-C[C@H](N)C(=O)O | [Cl-].[K+] | O,34
-CCCCn1cc[n+](C)c1.F[B-](F)(F)F | O,15
-NCC(=O)O | [Br-].[Na+] | O,14
-CCCCCCCCn1cc[n+](C)c1.[Cl-] | O,48
-NCC(=O)O | O=S(=O)([O-])[O-].[Na+].[Na+] | O,14
-O | O=Cc1ccc(CO)o1 | [Cl-].[Li+],20
-NCC(=O)O | [Cl-].[Na+] | O,66
-O=P([O-])(O)O.[Na+] | O,73
-O=C(O)[C@@H]1CCCN1 | O=[N+]([O-])[O-].[Na+] | O,48
-[Cs+].[F-] | O=S(=O)([O-])[O-].[Cs+].[Cs+] | O,30
-CCn1cc[n+](C)c1.O=S(=O)([O-])O | O,15
-[I-].[Li+] | O,16
-CN(CCO)CCO | Cl | O,10
-CO | CCCCn1cc[n+](C)c1.[Cl-],22
-N.O=P(O)(O)O | O,60
-CC(C)O | CCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,13
-NCC(=O)O | [Cl-].[Li+] | O,14
-O | O=Cc1ccc(CO)o1 | [Cl-].[Na+],20
-O | O=Cc1ccc(CO)o1,60
-O=S(=O)([O-])[O-].[Zn+2] | O,11
-CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1 | CCO,17
-CCOS(=O)(=O)[O-].CCn1cc[n+](C)c1 | CCO,17
-O | CCOS(=O)(=O)[O-].CCn1cc[n+](C)c1,80
-CC(C)[C@H](N)C(=O)O | [Cl-].[Li+] | O,8
-O=C(O)[C@@H]1CCCN1 | [Cl-].[Na+] | O,48
-[Br-].[K+] | O,16
-NCC(=O)O | [Br-].[K+] | O,14
-O | CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,26
-CCCCCCCCCCn1cc[n+](C)c1.[Br-] | O,21
-CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1 | CCCO,16
-CCCCn1cc[n+](C)c1.F[B-](F)(F)F | CC#N,12
-CCOS(=O)(=O)[O-].CCn1cc[n+](C)c1 | CCCO,14
-N.N.O=S(=O)(O)O | O,28
-[F-].[Rb+] | O,16
-CO | CCCCn1cc[n+](C)c1.[Br-],22
-NCCC(=O)O | O,8
-CC(C)[C@H](N)C(=O)O | O=[N+]([O-])[O-].[Na+] | O,44
-CCCC[N+]1(C)CCCC1.[I-] | CC(C)O,11
-CCCC[N+]1(C)CCCC1.N#C[N-]C#N | O,33
-CC(C)[C@H](N)C(=O)O | [I-].[Na+] | O,8
-CC(C)[C@H](N)C(=O)O | [I-].[Li+] | O,8
-N[C@@H](CO)C(=O)O | CCCCn1cc[n+](C)c1.[Br-] | O,28
-NCCCCC(=O)O | O,8
-C[C@H](N)C(=O)O | [Cl-].[Na+] | O,34
-[Cl-].[Li+] | O,31
-C[C@H](N)C(=O)O | N.N.O=S(=O)(O)O | O,36
-CC(C)O | CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,15
-CC(C)[C@H](N)C(=O)O | O=[N+]([O-])[O-].[K+] | O,36
-NCC(=O)O | [I-].[Na+] | O,14
-O=C(O)[C@@H]1CCCN1 | O=[N+]([O-])[O-].[K+] | O,44
 CC(C)O | CCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,15
-CC(C)[C@H](N)C(=O)O | [Br-].[Na+] | O,8
-[Cl-].[K+] | O,36
-CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1 | CC(C)O,15
-CCCC[N+]1(C)CCCC1.[I-] | CCCCO,11
-CC(C)[C@H](N)C(=O)O | [Br-].[K+] | O,8
-NCC(=O)O | [I-].[K+] | O,14
-[I-].[K+] | O,16
-CCOS(=O)(=O)[O-].CCn1cc[n+](C)c1 | CC(C)O,16
-C[C@H](N)C(=O)O | O=[N+]([O-])[O-].[Na+] | O,36
-Cc1ccc(S(=O)(=O)[O-])cc1.[Na+] | O,60
-N[C@@H](CO)C(=O)O | O,28
-[F-].[Rb+] | O=S(=O)([O-])[O-].[Rb+].[Rb+] | O,30
-CCCCn1cc[n+](C)c1.F[P-](F)(F)(F)(F)F | CC#N,12
-O=[N+]([O-])[O-].[Na+] | O,40
-NCCCCCC(=O)O | O,8
-CCCCn1cc[n+](C)c1.[Cl-] | CCO,26
-NCC(=O)O | [Cl-].[K+] | O,72
-NCC(=O)O | [Br-].[Li+] | O,14
-CCCCn1cc[n+](C)c1.[Br-] | CCO,26
-O | CCCn1cc[n+](C)c1.COS(=O)(=O)[O-],39
-O | CCn1cc[n+](C)c1.[Cl-],28
-O=[N+]([O-])[O-].[K+] | O,28
-CCO,2
-O | CCCCn1cc[n+](C)c1.COS(=O)(=O)[O-],64
-NCC(=O)O | N.N.O=S(=O)(O)O | O,38
+CC(C)[C@H](N)C(=O)O | [Cl-].[Li+] | O,8
+CC(C)[C@H](N)C(=O)O | [I-].[Li+] | O,8
+O | O=S(=O)([O-])[O-].[Ca+2],15
 CC(C)[C@H](N)C(=O)O | [I-].[K+] | O,8
-O=S(=O)([O-])[O-].[Na+].[Na+] | O,16
-[Cl-].[Na+] | O,24
+CCOS(=O)(=O)[O-].CCn1cc[n+](C)c1 | CCCO,14
+NCC(=O)O | O=[N+]([O-])[O-].[K+] | O,52
+NCC(=O)O | [Cl-].[K+] | O,72
+O=C(O)[C@@H]1CCCN1 | [Cl-].[K+] | O,44
+[Cl-].[K+] | O,36
+N[C@@H](CO)C(=O)O | O,28
+O=[N+]([O-])[O-].[Na+] | O,40
+NCC(=O)O | [Br-].[Li+] | O,14
+O | CCCCn1cc[n+](C)c1.COS(=O)(=O)[O-],64
+O | CCCn1cc[n+](C)c1.COS(=O)(=O)[O-],39
+NCC(=O)O | [I-].[Na+] | O,14
+C[C@H](N)C(=O)O | O=[N+]([O-])[O-].[Na+] | O,36
+CC(C)[C@H](N)C(=O)O | N.N.O=S(=O)(O)O | O,26
+O | CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1,26
+CC(C)[C@H](N)C(=O)O | O=S(=O)([O-])[O-].[Na+].[Na+] | O,8
+CCO | CCCCn1cc[n+](C)c1.[Cl-],24
+CCCCn1cc[n+](C)c1.[Br-] | CCO,26
+NCCCCCC(=O)O | O,8
+CN(CCO)CCO | Cl | O,10
+O | O=Cc1ccc(CO)o1 | [Cl-].[Li+],20
+CC(C)[C@H](N)C(=O)O | O=[N+]([O-])[O-].[Na+] | O,44
+O | CCn1cc[n+](C)c1.[Cl-],28
+CC(C)[C@H](N)C(=O)O | [Br-].[Na+] | O,8
+O | O=Cc1ccc(CO)o1,60
+CCCO | CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,13
+O=[N+]([O-])[O-].[K+] | O,28
+CCn1cc[n+](C)c1.O=S(=O)([O-])O | O,15
+CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1 | CCO,17
 [I-].[Na+] | O,16
+C[C@H](N)C(=O)O | [Cl-].[K+] | O,34
+CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1 | CCCO,16
+O=S(=O)([O-])[O-].[Na+].[Na+] | O,16
+O | O=Cc1ccc(CO)o1 | [Cl-].[Na+],20
+CCCCn1cc[n+](C)c1.[Br-] | O,40
+CCCO | CCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,14
+[Br-].[K+] | O,16
+O=C(O)[C@@H]1CCCN1 | O=[N+]([O-])[O-].[Na+] | O,48
+C[C@H](N)C(=O)O | O=[N+]([O-])[O-].[K+] | O,36
+CCCC[N+]1(C)CCCC1.[I-] | CCCCO,11
+CC(C)[C@H](N)C(=O)O | [Cl-].[K+] | O,48
+CCCO | CCCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,15
+CCOS(=O)(=O)[O-].CC[n+]1cccc(C)c1 | CC(C)O,15
+CCCCCCCCCCn1cc[n+](C)c1.[Br-] | O,21
+NCCC(=O)O | O,8
+CCCCn1cc[n+](C)c1.F[P-](F)(F)(F)(F)F | CC#N,12
+O=P([O-])(O)O.[Na+] | O,73
+NCC(=O)O | [Br-].[K+] | O,14
+[F-].[Rb+] | O=S(=O)([O-])[O-].[Rb+].[Rb+] | O,30
+CCOS(=O)(=O)[O-].CCn1cc[n+](C)c1 | CCO,17
+NCC(=O)O | [Cl-].[Na+] | O,66
+O=P([O-])(O)O.[K+] | O,57
+[Cl-].[Na+] | O,24
+[I-].[K+] | O,16
+C[C@H](N)C(=O)O | [Cl-].[Na+] | O,34
+CC(C)[C@H](N)C(=O)O | [I-].[Na+] | O,8
+CCO,2
+CC(C)[C@H](N)C(=O)O | [Br-].[K+] | O,8
+N.O=P(O)(O)O | O,60
+O=C(O)[C@@H]1CCCN1 | N.N.O=S(=O)(O)O | O,40
+CCO | CCCCCCn1cc[n+](C)c1.[Cl-],24
+CCOS(=O)(=O)[O-].CCn1cc[n+](C)c1 | CC(C)O,16
+[I-].[Li+] | O,16
+CC(C)[C@H](N)C(=O)O | [Cl-].[Na+] | O,46
+CO | CCCCn1cc[n+](C)c1.[Cl-],22
+CCCCn1cc[n+](C)c1.F[B-](F)(F)F | CC#N,12
+NCC(=O)O | [Cl-].[Li+] | O,14
+NCC(=O)O | [I-].[K+] | O,14
+Cc1ccc(S(=O)(=O)[O-])cc1.[Na+] | O,60
+[Cs+].[F-] | O,16
+O | [Na+].[OH-],2
+CC(C)[C@H](N)C(=O)O | O=[N+]([O-])[O-].[K+] | O,36
+CCCCn1cc[n+](C)c1.[Cl-] | CCO,26
+O=C(O)[C@@H]1CCCN1 | [Cl-].[Na+] | O,48
+CCCC[N+]1(C)CCCC1.N#C[N-]C#N | O,33
+[Br-].[Na+] | O,16
+O | CCCCn1cc[n+](C)c1.F[B-](F)(F)F,72
+O | CCOS(=O)(=O)[O-].CCn1cc[n+](C)c1,80
+CC(C)[C@H](N)C(=O)O | [Br-].[Li+] | O,8
+CCCCCCCCn1cc[n+](C)c1.[Cl-] | O,48
+NCC(=O)O | N.N.O=S(=O)(O)O | O,38
+NCCCCC(=O)O | O,8
+O=S(=O)([O-])[O-].[Zn+2] | O,11
+CCCC[N+]1(C)CCCC1.[I-] | CC(C)O,11
+[F-].[Rb+] | O,16
+O=C(O)[C@@H]1CCCN1 | O=[N+]([O-])[O-].[K+] | O,44
+C[C@H](N)C(=O)O | N.N.O=S(=O)(O)O | O,36
+[Cl-].[Li+] | O,31
+N.N.O=S(=O)(O)O | O,28
+NCC(=O)O | O=S(=O)([O-])[O-].[Na+].[Na+] | O,14
+NCC(=O)O | [I-].[Li+] | O,14
+CO | CCCCn1cc[n+](C)c1.[Br-],22
+N[C@@H](CO)C(=O)O | CCCCn1cc[n+](C)c1.[Br-] | O,28
+CC(C)O | CCCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,15
+NCC(=O)O | O=[N+]([O-])[O-].[Na+] | O,58
+[Br-].[Li+] | O,16
+NCC(=O)O | [Br-].[Na+] | O,14
+CC(C)O | CCn1cc[n+](C)c1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,13
+CCCCn1cc[n+](C)c1.F[B-](F)(F)F | O,15
+CO,2
+NCCCC(=O)O | O,8
+[Cs+].[F-] | O=S(=O)([O-])[O-].[Cs+].[Cs+] | O,30
